@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Admin FeastFast</string>
+    <!-- Add this line below -->
+    <string name="default_web_client_id">931526306912-5k6f4qrjv22h2vbpdq8b0ksjm6hr84s2.apps.googleusercontent.com</string>
+    <string name="add_item">Add Item</string>
+    <string name="enter_food_name">Enter Food Name</string>
+</resources>

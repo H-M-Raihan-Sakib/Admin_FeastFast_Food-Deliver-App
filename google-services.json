@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "931526306912",
+    "firebase_url": "https://admin-feastfast-default-rtdb.firebaseio.com",
+    "project_id": "admin-feastfast",
+    "storage_bucket": "admin-feastfast.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:931526306912:android:bb9ff98ca78f6810ca6705",
+        "android_client_info": {
+          "package_name": "com.example.adminfeastfast"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "931526306912-rtetmkbtgm57pbf16i7i01hvop7g0ah7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.adminfeastfast",
+            "certificate_hash": "ebe83ac91c0d9e589a0fb4c55816a4e2e55b8630"
+          }
+        },
+        {
+          "client_id": "931526306912-5k6f4qrjv22h2vbpdq8b0ksjm6hr84s2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXh_6WDU1X9Md1VYJ-5LaklbgD2RBBaNY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "931526306912-5k6f4qrjv22h2vbpdq8b0ksjm6hr84s2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

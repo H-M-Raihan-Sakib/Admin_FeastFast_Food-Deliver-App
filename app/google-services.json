@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "931526306912",
+    "project_id": "admin-feastfast",
+    "storage_bucket": "admin-feastfast.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:931526306912:android:bb9ff98ca78f6810ca6705",
+
+        "android_client_info": {
+          "package_name": "com.example.adminfeastfast"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXh_6WDU1X9Md1VYJ-5LaklbgD2RBBaNY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
